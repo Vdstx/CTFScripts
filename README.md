@@ -35,6 +35,6 @@ Il s'agit d’un dépôt personnel, conçu pour :
 
 La plupart des scripts sont prêts à être exécutés directement dans la console du navigateur, en Python ou en Bash, selon le contexte.
 
-⚠️ **Important :** Ces outils sont destinés **uniquement à un usage légal**, dans le cadre de compétitions CTF, d’environnements éducatifs ou de systèmes pour lesquels vous avez une autorisation explicite de test.** N'utilisez jamais ces outils sur des cibles non autorisées.**
+⚠️ **Important :** Ces outils sont destinés **uniquement à un usage légal**, dans le cadre de compétitions CTF, d’environnements éducatifs ou de systèmes pour lesquels vous avez une autorisation explicite de test. **N'utilisez jamais ces outils sur des cibles non autorisées.**
 
 Vdxtx
